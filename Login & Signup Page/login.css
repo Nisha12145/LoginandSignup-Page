@@ -1,0 +1,45 @@
+#maindiv{
+    border: 1px solid black;
+    height: 580px;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2023/03/30/05/45/bird-7886820_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+#div2{
+    /* border: 1px solid black; */
+    width: 350px;
+    height: 300px;
+    margin-left: 430px;
+    margin-top: 120px;
+    text-align: center;
+    background-color: rgb(158, 116, 116);
+    padding-top: 10px;
+
+}
+#divname{
+    /* border: 1px solid black; */
+   margin-top: 25px; 
+   height: 60px;
+}
+#divpass{
+    /* border: 1px solid black; */
+   margin-top: 10px;
+   height: 60px;
+}
+#namepara,#passpara{
+     
+     color: rgb(71, 36, 128);
+    display: none; 
+} 
+ #divbtn{
+    /* border: 1px solid black; */
+     margin-top: 10px;
+ }
+ #linkk{
+    /* border: 1px solid black; */
+    margin-top: 1px;
+ }
